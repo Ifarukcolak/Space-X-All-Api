@@ -8,3 +8,4 @@ C:\Users\cismet\Documents\Visual Studio 2017\Projects\SpaceX\SpaceX\obj\Debug\ne
 C:\Users\cismet\Documents\Visual Studio 2017\Projects\SpaceX\SpaceX\obj\Debug\netcoreapp2.2\SpaceX.AssemblyInfo.cs
 C:\Users\cismet\Documents\Visual Studio 2017\Projects\SpaceX\SpaceX\obj\Debug\netcoreapp2.2\SpaceX.dll
 C:\Users\cismet\Documents\Visual Studio 2017\Projects\SpaceX\SpaceX\obj\Debug\netcoreapp2.2\SpaceX.pdb
+C:\Users\cismet\Documents\Visual Studio 2017\Projects\SpaceX\SpaceX\obj\Debug\netcoreapp2.2\SpaceX.csprojAssemblyReference.cache

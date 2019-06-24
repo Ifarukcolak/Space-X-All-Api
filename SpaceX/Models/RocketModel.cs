@@ -117,10 +117,10 @@ namespace SpaceX.Models
     {
         public int id { get; set; }
         public bool active { get; set; }
-        public int stages { get; set; }
-        public int boosters { get; set; }
-        public int cost_per_launch { get; set; }
-        public int success_rate_pct { get; set; }
+        public int? stages { get; set; }
+        public int? boosters { get; set; }
+        public int? cost_per_launch { get; set; }
+        public int? success_rate_pct { get; set; }
         public string first_flight { get; set; }
         public string country { get; set; }
         public string company { get; set; }
